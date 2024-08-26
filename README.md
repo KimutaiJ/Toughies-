@@ -1,1 +1,1 @@
-# Toughies-
+Hi, so I'm creating this repo for istances where I've got some code where personally I don't see any issues but the result isn't exactly what I was expecting. Hopefully you can leave a comment or sometihng and lemme know how to fix it
